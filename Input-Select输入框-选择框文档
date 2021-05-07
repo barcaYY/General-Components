@@ -26,6 +26,12 @@ import InputSelect from '@/components/input-select'
   </FormItem>
 </Col>
 
+<center class="half">
+<img src="http://silianpan.cn/wp-content/uploads/2019/10/865d433e88d5a5286a871adcd522c3b5.png" width="230"/>
+<img src="http://silianpan.cn/wp-content/uploads/2019/10/1.gif" width="285"/>
+<img src="http://silianpan.cn/wp-content/uploads/2019/10/2.gif" width="220"/>
+</center>
+
 <img src="https://github.com/barcaYY/Image/blob/main/0Input-Select%E8%BE%93%E5%85%A5%E6%A1%86-%E9%80%89%E6%8B%A9%E6%A1%86%E6%96%87%E6%A1%A3.png" width="600"/>
 <img src="http://silianpan.cn/wp-content/uploads/2019/10/1.gif" width="285"/>
 <br/>
