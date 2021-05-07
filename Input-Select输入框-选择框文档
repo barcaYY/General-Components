@@ -1,0 +1,27 @@
+使用场景
+
+表单中既需要有Input输入框，又能Select选择时使用；
+
+引入
+
+
+import InputSelect from '@/components/input-select' 
+
+
+
+使用示例：
+
+<Col span="8" >
+  <FormItem prop="TaxRate" label="税率(%)">
+      <InputSelect :value="formData.TaxRate"
+                    :type="'number'"
+                    :number="true"
+                    @on-change="(val) => {handleOnChange('TaxRate', val)}"
+                    @on-blur="handleOnBlur"
+                    @on-blur="handleOnOpenChange"
+                    :optionList="listArr"
+                    :placeholder="'税率'"
+                    :disabled="disabled">
+      </InputSelect>
+  </FormItem>
+</Col>
