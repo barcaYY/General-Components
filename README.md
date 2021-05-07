@@ -1,7 +1,7 @@
 # General-Components
 一些后台系统开发中经常用到的组件，都是上一个Saas项目中自己2次封装的，实用性更友好！
 
-<目录CONTENT>
+目录CONTENT
 Input-Select输入框/选择框
 下拉选择（下拉table，点击右侧icon还可进行数据追踪）
 地址级联组件
@@ -20,9 +20,6 @@ Input-Select输入框/选择框
 通用表单组件
 项目列表组件 ProjectForm
 高级搜索组件SeniorSearch
-
-
-Input-Select输入框/选择框
 
 
 
